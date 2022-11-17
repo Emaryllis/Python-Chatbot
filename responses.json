@@ -1,0 +1,55 @@
+{
+	"greetings": {
+		"reply": [
+			"Hello!",
+			"Hi!",
+			"Hi there.",
+			"It's a pleasure to meet you."
+		],
+		"answer": [
+			"hello",
+			"hi",
+			"hey",
+			"sup",
+			"heyo"
+		]
+	},
+	"bye": {
+		"reply": [
+			"Goodbye!",
+			"Bye!",
+			"Have a nice day!",
+			"Have a great rest of your day!"
+		],
+		"answer": [
+			"bye",
+			"goodbye",
+			"cya"
+		]
+	},
+	"fine": {
+		"reply": [
+			"I'm doing fine, and you?",
+			"I'm doing great, hope you are too!"
+		],
+		"answer": [
+			"how",
+			"are",
+			"you",
+			"doing"
+		],
+		"requiredWords": [
+			"how",
+			"are"
+		]
+	},
+	"others": {
+		"reply": [
+			"I do not know how to respond to that. Pardon me.",
+			"I have no response to your answer. My bad.",
+			"I haven't a clue to your question. Sorry.",
+			"I haven't the faintest answer to your queries. Apologies."
+		],
+		"answer": []
+	}
+}
